@@ -57,6 +57,3 @@ Program memeriksa apakah panjang kunci sama dengan panjang teks biasa. Jika tida
 - Program ini mengasumsikan penggunaan karakter ASCII huruf besar untuk kesederhanaan.
 
 - Proses enkripsi dan dekripsi dijelaskan di komentar kode sumber.
-
-Jangan ragu untuk menjelajahi dan memodifikasi kode untuk tujuan pendidikan atau untuk menyesuaikannya dengan kebutuhan spesifik Anda.
- 
